@@ -1,0 +1,6 @@
+framework module Pods_Crows_CrowsUITests {
+  umbrella header "Pods-Crows-CrowsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

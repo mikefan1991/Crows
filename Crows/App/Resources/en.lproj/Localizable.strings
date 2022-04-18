@@ -1,0 +1,73 @@
+/* 
+  Localizable.strings
+  Crows
+
+  Created by Yingwei Fan on 3/31/21.
+  
+*/
+"Home" = "Home";
+"Circles" = "Circles";
+"Me" = "Me";
+"Next" = "Next";
+"Done" = "Done";
+"Publish" = "Publish";
+"Join" = "Join";
+"Select" = "Select";
+"Confirm" = "Confirm";
+"Retry" = "Retry";
+"Cancel" = "Cancel";
+"TakePhoto" = "Take a photo from camera";
+"ChoosePhoto" = "Choose a photo from album";
+
+"HobbySelectionTitle" = "Select your hobbies";
+
+"BasicContentObject.Status" = "%d likes · %d comments";
+
+"CreateContent.Upload" = "Upload";
+"CreateContent.Uploading" = "Uploading...";
+"CreateContent.TitlePlaceholder" = "Please input title";
+"CreateContent.TextPlaceholder" = "Please input text";
+"CreateContent.CircleSelection" = "Select a circle";
+"CreateContent.InsertPhotos" = "Photos";
+"CreateContent.InsertExternalVideo" = "YouTube video";
+"CreateContent.AddYouTubeLinkTitle" = "Add YouTube link";
+"CreateContent.AddYouTubeLinkDescription" = "Input a YouTube link here to add a video.";
+"CreateContent.CreateComment" = "Create comment";
+
+"SignIn.Welcome" = "Welcome to Crows";
+"SignIn.EmailAddress" = "Email Address";
+"SignIn.Password" = "Password";
+"SignIn.ForgetPassword" = "Forget password?";
+"SignIn.RecoverPassword" = "Recover password";
+"SignIn.ForgetPasswordDescription" = "Enter your email address and we will send you a link to reset your password.";
+"SignIn.EmailNotRegistered" = "This email is not registered with Crows yet.";
+"SignIn.RecoverEmailSent" = "Recover email has been sent.\nPlease check your inbox.";
+"SignIn.Signup" = "New to Crows?";
+"SignIn.Login" = "Login";
+"SignIn.LoginFailureError" = "The username or password is wrong";
+"SignIn.Signup" = "Sign Up";
+"SignIn.SendConfirmationCode" = "Send confirmation code";
+"SignIn.Agreement" = "By entering your email, you're agreeing to our Terms of Service and Privacy Policy.";
+"SignIn.TermsOfService" = "Terms of Service";
+"SignIn.PrivacyPolicy" = "Privacy Policy";
+"SignIn.ConfirmationTitle" = "Code Confirmation";
+"SignIn.ConfirmationDescription" = "Your confirmation code has been sent to your email address\nPlease check your inbox and input the code here";
+"SignIn.ResendCode" = "Resend code";
+"SignIn.SetPasswordTitle" = "Set Password";
+"SignIn.Username" = "Username";
+"SignIn.Password" = "Password";
+"SignIn.ConfirmPassword" = "Confirm password";
+
+"Profile.Edit" = "Edit profile";
+"Profile.ChangePassword" = "Change Password";
+"Profile.ChangePasswordMessage" = "Click below and check your email for a link to change your password";
+"Profile.SendPasswordResetEmail" = "Send password reset email";
+
+"Hobby.Alcohol" = "Alcohol";
+"Hobby.Photography" = "Photography";
+"Hobby.Sports" = "Sports";
+"Hobby.Digital" = "Digital";
+"Hobby.Cars" = "Cars";
+"Hobby.UrbanLegend" = "Urban Legend";
+"Hobby.Finance" = "Finance";
+"Hobby.Fashion" = "Fashion";
